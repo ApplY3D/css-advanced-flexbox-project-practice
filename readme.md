@@ -1,4 +1,4 @@
-# CSS Advanced Float Project "Trillo"
+# CSS Advanced Flexbox Project "Trillo"
 
 Pure css project with advanced topics like:  
 **`Flexbox`**;  
